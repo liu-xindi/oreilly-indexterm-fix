@@ -18,7 +18,7 @@ O'Reilly 在段落里插入了用于生成书末索引的空元素：
 ## 安装
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
-2. 打开 [oreilly-indexterm-fix.user.js](oreilly-indexterm-fix.user.js)，点 Raw，按提示安装。
+2. [从 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/601704)（推荐，可自动更新）；或打开 [oreilly-indexterm-fix.user.js](oreilly-indexterm-fix.user.js)，点 Raw，按提示安装。
 3. 刷新书页后再翻译。
 
 ## 行为
